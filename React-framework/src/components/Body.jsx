@@ -4,7 +4,7 @@ function Body() {
     return (
       <div>
           <div className='flex flex-col my-10 ml-10'>
-          <h1 className='text-6xl'>Welcome 😃</h1>
+          <h1 className='text-6xl'>Welcome 😊</h1>
           <p className='text-3xl py-5'>Kalvium Best Software Engineers!</p>
           <button className='bg-red-600 py-2 text-white text-xl rounded-md w-40'>Learn More</button>
         </div>
